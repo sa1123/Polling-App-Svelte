@@ -20,7 +20,7 @@
             <div class="percent percent-a"></div>
             <span>{ poll.answerA } ({ poll.votesA })</span>
         </div>
-        <div class="answer on:click={() => handleVote('b', poll.id)}">
+        <div class="answer" on:click={() => handleVote('b', poll.id)}>
             <div class="percent percent-b"></div>
             <span>{ poll.answerB } ({ poll.votesB })</span>
         </div>
