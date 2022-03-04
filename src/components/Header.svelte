@@ -5,7 +5,7 @@
 
 <header>
     <h1>
-        <img src="\img\poll_ninja_logo.svg" alt="Poll Logo">
+        <img src="\img\poll.png" alt="Poll Logo">
     </h1>
 </header>
 
